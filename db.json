@@ -1,0 +1,70 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "user_uuid": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c",
+            "username": "Code with Ricky Plaza",
+            "handle": "rickyP",
+            "bio": "I am awesome",
+            "link": "",
+            "img": "http",
+            "instagram_url": "https",
+            "followers": [
+                {
+                    "user_uuid": "28ba3186-a1aa-4b10-b0dd-f7d0e686597b"
+                },
+                {
+                    "user_uuid": "5998685e-3fe6-45a0-a909-6eeaa3e4f911"
+                }
+            ]
+
+        },
+
+        {
+            "id": 2,
+            "user_uuid": "28ba3186-a1aa-4b10-b0dd-f7d0e686597b",
+            "username": "Bobby's Burger",
+            "handle": "bobbyburger",
+            "bio": "Welcome to bobbys burger",
+            "link": "",
+            "img": "http",
+            "instagram_url": "https",
+            "followers": [
+                {
+                    "user_uuid": "5998685e-3fe6-45a0-a909-6eeaa3e4f911"
+                },
+                {
+                    "user_uuid": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c"
+                }
+            ]
+
+        },
+
+        {
+            "id": 3,
+            "user_uuid": "5998685e-3fe6-45a0-a909-6eeaa3e4f911",
+            "username": "Pawnshop",
+            "handle": "Pawnstar",
+            "bio": "Great dea;s",
+            "link": "",
+            "img": "http",
+            "instagram_url": "https",
+            "followers": [
+                {
+                    "user_uuid": "28ba3186-a1aa-4b10-b0dd-f7d0e686597b"
+                },
+                {
+                    "user_uuid": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c"
+                }
+            ]
+
+        }
+
+
+
+    ],
+    "threads": [
+
+    ]
+
+}
