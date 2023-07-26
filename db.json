@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "id": 1,
+            "id": 0,
             "user_uuid": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c",
             "username": "Code with Ricky Plaza",
             "handle": "rickyP",
@@ -21,7 +21,7 @@
         },
 
         {
-            "id": 2,
+            "id": 1,
             "user_uuid": "28ba3186-a1aa-4b10-b0dd-f7d0e686597b",
             "username": "Bobby's Burger",
             "handle": "bobbyburger",
@@ -41,7 +41,7 @@
         },
 
         {
-            "id": 3,
+            "id": 2,
             "user_uuid": "5998685e-3fe6-45a0-a909-6eeaa3e4f911",
             "username": "Pawnshop",
             "handle": "Pawnstar",
@@ -63,7 +63,53 @@
 
 
     ],
+
     "threads": [
+        {
+            "id": 0,
+            "timestamp": "Tue Jul 25 2023 21:42:01 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "hello world (of threads)",
+            "likes": [
+                {
+                    "uuid": "5998685e-3fe6-45a0-a909-6eeaa3e4f911"
+                },
+                {
+                    "uuid": "28ba3186-a1aa-4b10-b0dd-f7d0e686597b"
+                }
+            ]
+        },
+
+        {
+            "id": 1,
+            "timestamp": "Tue Jul 25 2023 21:42:01 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Awesome thread!",
+            "likes": []
+        },
+
+        {
+            "id": 2,
+            "timestamp": "",
+            "thread_from": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "another one!",
+            "likes": [
+                {
+                    "uuid": "5998685e-3fe6-45a0-a909-6eeaa3e4f911"
+                },
+                {
+                    "uuid": "28ba3186-a1aa-4b10-b0dd-f7d0e686597b"
+                }
+            ]
+        },
+
+        
 
     ]
 
