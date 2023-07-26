@@ -94,20 +94,35 @@
 
         {
             "id": 2,
-            "timestamp": "",
+            "timestamp": "Tue Jul 25 2023 21:42:01 GMT-0400 (Eastern Daylight Time)",
             "thread_from": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c",
             "thread_to": null,
             "reply_to": null,
             "text": "another one!",
-            "likes": [
-                {
-                    "uuid": "5998685e-3fe6-45a0-a909-6eeaa3e4f911"
-                },
-                {
-                    "uuid": "28ba3186-a1aa-4b10-b0dd-f7d0e686597b"
-                }
-            ]
+            "likes": []
         },
+
+        {
+            "id": 3,
+            "timestamp": "Tue Jul 25 2023 21:42:01 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "excited to have just started my business",
+            "likes": []
+        },
+
+        {
+            "id": 4,
+            "timestamp": "Tue Jul 25 2023 21:42:01 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "7dcfb1fd-1bd9-4b55-9dea-b8795d79d13c",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Congratz",
+            "likes": []
+        }
+
+        
 
         
 
