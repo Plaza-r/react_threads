@@ -1,7 +1,7 @@
 const Header = () => {
     return (
       <header>
-        <div className="info- container">
+        <div className="info-container">
           <div className="user-info-container">
             <h1>username</h1>
             <p>handle <span className="threads-info">threads.net</span></p>
@@ -18,7 +18,7 @@ const Header = () => {
         <button className="primary" onClick={() => navigator.clipboard.writeText('I am URL')}>Share Profile</button>
 
         <div className="button-container">
-          <button>threads</button>
+          <button className="current">threads</button>
           <button>Replies</button>
         </div>
 
